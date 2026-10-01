@@ -2,7 +2,7 @@
 
 **Desenvolvedor — automação, dados e otimização**
 
-Estudante de Engenharia de Software na FIAP e Atualmente atuo como estagiario de Data Science na BIOLAB FARMACEUTICA.
+Estudante de Engenharia de Software na FIAP e atualmente atuo como estagiario de Data Science na BIOLAB FARMACEUTICA.
 
 Me interesso por problemas onde a solução não é óbvia: otimização combinatória, automação de processos que ninguém quer fazer na mão, e interfaces que deixam dado complexo legível. A maior parte do que construo nasce de um incômodo real.
 
